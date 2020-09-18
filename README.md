@@ -7,8 +7,8 @@ Freespace aims to gather this data autonomously through user cooperation. Throug
 
 Team Members
 - Esther Cha
-- Benjamin Westerhof
-- YoungIn Kim
-- Sinai Park
 - Zachary Chin
 - SeongIl (Leo) Kim
+- YoungIn Kim
+- Sinai Park
+- Benjamin Westerhof
