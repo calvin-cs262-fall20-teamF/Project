@@ -1,4 +1,4 @@
-**Freespace**
+# Freespace
 
 Freespace is a user generated, dynamic congestion reporting app that aims to help ease students' concern in finding a free and quiet space on campus. This application was inspired by similar apps that rely on user reporting, such as the Waze navigation app; however, Freespace is aimed at a more immediate concern to Calvin students. During the current pandemic, there are fewer public gathering spaces available to students, and even then, the available spaces have limits to how many people can use them. The aim of Freespace is to provide a listing of public spaces on campus, and an estimate on their availability to students.
 
