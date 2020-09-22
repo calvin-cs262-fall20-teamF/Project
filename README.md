@@ -6,7 +6,7 @@ Freespace aims to gather this data autonomously through user cooperation. Throug
 
 
 
-Team Members
+### Team Members
 - Esther Cha
 - Zachary Chin
 - SeongIl (Leo) Kim
