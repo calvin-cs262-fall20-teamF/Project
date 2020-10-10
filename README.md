@@ -5,8 +5,20 @@ Imagine how much time you waste in a day walking to a dining hall and finding ou
 Freespace, our user-driven mobile app, serves to accomplish exactly that. It is tailored specifically towards Calvin University students in search of an available area on campus. The app runs on both iOS and Android, enabling accessibility to the majority of Calvin’s population. Gone are the days when students scurry around campus looking for an unoccupied spot; Freespace provides this information ahead of time so that they only need one trip. Especially in light of the on-going pandemic, public spaces are limited in number and capacity. Rather than relying on the current method of checking area occupancy, word-of-mouth, users can quickly access this same information in a few simple taps. Freespace utilizes a listing of public areas on campus, alongside an estimate of their availability to students, in order to provide real-time data on public space usage. Our app collects data from users who are currently located at the specified sites. The users report on the present state of that public space, whether it is loud and crowded, or quiet and empty. Through our app, other users are able to view both of the self-reported open and occupied zones. Freespace blends real-time user reports with previously collected data to provide a community-focused solution for emphasizing the importance of students’ schedules and finding the perfect free space on campus.
 
 
+## Project Deliverables
 
-### Team Members
+- Design Models (e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md))
+
+- Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx))
+
+- Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
+
+[Freespace Organization](https://github.com/calvin-cs262-fall2020-Freespace):
+    - [Mobile Client](https://github.com/calvin-cs262-fall2020-Freespace/Client)
+    - [Data Service](https://github.com/calvin-cs262-fall2020-Freespace/Service)
+
+
+## Team Members
 - Esther Cha
 - Zachary Chin
 - SeongIl (Leo) Kim
