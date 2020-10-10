@@ -13,7 +13,7 @@ Freespace, our user-driven mobile app, serves to accomplish exactly that. It is 
 
 - Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
 
-[Freespace](https://github.com/calvin-cs262-fall2020-Freespace):
+Other Freespace repos:
 - [Mobile Client](https://github.com/calvin-cs262-fall2020-Freespace/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2020-Freespace/Service)
 
@@ -25,3 +25,5 @@ Freespace, our user-driven mobile app, serves to accomplish exactly that. It is 
 - YoungIn Kim
 - Sinai Park
 - Benjamin Westerhof
+
+*View our organization [here](https://github.com/calvin-cs262-fall2020-Freespace)*
