@@ -17,7 +17,7 @@ Freespace, our user-driven mobile app, serves to accomplish exactly that. It is 
 - Other documents
   - None thus far.
 
-Other Freespace repos:
+#### Other Freespace repos:
 - [Mobile Client](https://github.com/calvin-cs262-fall2020-Freespace/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2020-Freespace/Service)
 
