@@ -7,11 +7,15 @@ Freespace, our user-driven mobile app, serves to accomplish exactly that. It is 
 
 ## Project Deliverables
 
-- Design Models (e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md))
+- Design Models
+  - [UML Class Diagram](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/FreeSpace_XML.png)
+  - [UI Design Mock-up](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/UI%20Design%20v2.png)
 
-- Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx))
+- Presentation Materials
+  - None thus far.
 
-- Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
+- Other documents
+  - None thus far.
 
 Other Freespace repos:
 - [Mobile Client](https://github.com/calvin-cs262-fall2020-Freespace/Client)
@@ -26,4 +30,4 @@ Other Freespace repos:
 - Sinai Park
 - Benjamin Westerhof
 
-*View our organization [here](https://github.com/calvin-cs262-fall2020-Freespace)*
+*View our organization [here](https://github.com/calvin-cs262-fall2020-Freespace).*
