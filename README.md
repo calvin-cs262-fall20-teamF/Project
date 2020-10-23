@@ -9,7 +9,7 @@ Freespace, our user-driven mobile app, serves to inform students of the current 
 
 - Design Models
   - [Domain Model](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/domainModel.png)
-  - [UI Design Mock-up](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/UI%20Design%20v2.png)
+  - [UI Design Mock-up](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/UI%20design.png)
 
 - Presentation Materials
   - None thus far.
