@@ -25,7 +25,7 @@ Freespace, our user-driven mobile app, serves to accomplish exactly that. It is 
 
 ## Team Members
 - Esther Cha
-- Zachary Chin
+- Zach Chin
 - SeongIl (Leo) Kim
 - YoungIn Kim
 - Sinai Park
