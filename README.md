@@ -17,7 +17,7 @@ Freespace, our user-driven mobile app, serves to inform students of the current 
   - [Sample Queries](https://github.com/calvin-cs262-fall2020-Freespace/Service/blob/SQL/Schema/sql/freespace-queries.sql)
 
 - Presentation Materials
-  - None thus far.
+  - [First Presentation](https://docs.google.com/presentation/d/19nvyAxQ8Ngc6I0K-gSkRNRlqca16I0zdnIVrZ_Aj3Ss/edit?usp=sharing)
   
 
 #### Other Freespace repos:
