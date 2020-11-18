@@ -11,11 +11,14 @@ Freespace, our user-driven mobile app, serves to inform Calvin University studen
   - [Domain Model](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/domainModel.png)
   - [UI Design Mock-up](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/master/images/UI%20design.png)
 
-- Presentation Materials
-  - None thus far.
+- SQL Scripts
+  - [Database Schema](https://github.com/calvin-cs262-fall2020-Freespace/Service/blob/SQL/Schema/sql/freespace.sql)
+      (with sample data)
+  - [Sample Queries](https://github.com/calvin-cs262-fall2020-Freespace/Service/blob/SQL/Schema/sql/freespace-queries.sql)
 
-- Other documents
-  - None thus far.
+- Presentation Materials
+  - [First Presentation](https://docs.google.com/presentation/d/19nvyAxQ8Ngc6I0K-gSkRNRlqca16I0zdnIVrZ_Aj3Ss/edit?usp=sharing)
+  
 
 #### Other Freespace repos:
 - [Mobile Client](https://github.com/calvin-cs262-fall2020-Freespace/Client)
