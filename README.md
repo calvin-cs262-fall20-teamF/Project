@@ -16,6 +16,10 @@ Freespace, our user-driven mobile app, serves to inform Calvin University studen
       (with sample data)
   - [Sample Queries](https://github.com/calvin-cs262-fall2020-Freespace/Service/blob/SQL/Schema/sql/freespace-queries.sql)
 
+- Usability Test
+  - [Test Script](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/deliverables/test-script/documents/FreespaceTestScript.pdf)
+  - Test Conclusions
+
 - Presentation Materials
   - [First Presentation](https://docs.google.com/presentation/d/19nvyAxQ8Ngc6I0K-gSkRNRlqca16I0zdnIVrZ_Aj3Ss/edit?usp=sharing)
   
