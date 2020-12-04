@@ -18,7 +18,7 @@ Freespace, our user-driven mobile app, serves to inform Calvin University studen
 
 - Usability Test
   - [Test Script](https://github.com/calvin-cs262-fall2020-Freespace/Project/blob/deliverables/test-script/documents/FreespaceTestScript.pdf)
-  - Test Conclusions
+  - Test Conclusions (to be updated after all user tests have been conducted)
 
 - Presentation Materials
   - [First Presentation](https://docs.google.com/presentation/d/19nvyAxQ8Ngc6I0K-gSkRNRlqca16I0zdnIVrZ_Aj3Ss/edit?usp=sharing)
