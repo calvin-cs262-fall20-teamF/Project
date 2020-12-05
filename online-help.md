@@ -3,9 +3,9 @@
 You can use the Map page to see where you are on campus relative to each of Calvin University’s dining halls.
 
 Imagine that you want to eat at Commons Dining Hall and need to know the dining hall’s location relative to your current location. The detailed steps in this section show you how to:
-locate yourself on the map of Calvin University’s campus,
-locate the dining halls on the map of Calvin University’s campus,
-find out how busy (on a standardized scale) each dining hall is at the current moment.
+1) locate yourself on the map of Calvin University’s campus,
+2) locate the dining halls on the map of Calvin University’s campus,
+3) find out how busy (on a standardized scale) each dining hall is at the current moment.
 
 ## 4.1 - Locating Yourself
 
