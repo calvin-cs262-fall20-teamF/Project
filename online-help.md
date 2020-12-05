@@ -7,16 +7,16 @@ locate yourself on the map of Calvin University’s campus,
 locate the dining halls on the map of Calvin University’s campus,
 find out how busy (on a standardized scale) each dining hall is at the current moment.
 
-## 4.1 Locating Yourself
+## 4.1 - Locating Yourself
 
 To locate yourself on the map, look for a pulsing blue circle in the center of the Map page. The blue circle represents your approximate location on the map.
 
-## 4.2 Locating a Dining Hall
+## 4.2 - Locating a Dining Hall
 
 To locate a dining hall on the map, look for a colored pin on the Map page. The color of the pin will be one of five colors: 
 green, green-yellow, yellow, orange, or red. The smaller end of the pin indicates the approximate location of a dining hall on the map.
 
-## 4.3 Finding a Dining Hall’s Busyness Level
+## 4.3 - Finding a Dining Hall’s Busyness Level
 
 Each pin’s color indicates the busyness level at that location as reported by other people. 
 We use the scale below to generalize activity levels:
