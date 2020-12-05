@@ -20,8 +20,8 @@ green, green-yellow, yellow, orange, or red. The smaller end of the pin indicate
 
 Each pin’s color indicates the busyness level at that location as reported by other people. 
 We use the scale below to generalize activity levels:
-- Green: not busy,
-- Green-yellow: slightly busy,
-- Yellow: busy,
-- Orange: very busy,
-- Red: extremely busy.
+- Green: not busy
+- Green-yellow: slightly busy
+- Yellow: busy
+- Orange: very busy
+- Red: extremely busy
