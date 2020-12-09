@@ -7,6 +7,10 @@ Imagine that you want to eat at Commons Dining Hall and need to know the dining 
 2) locate the dining halls on the map of Calvin University’s campus,
 3) find out how busy (on a standardized scale) each dining hall is at the current moment.
 
+## 4.0 - The Home Screen
+You can use the home screen to look up information on each location, or to go to the report screen. All information on each location is on the corresponding card. 
+This includes both an estimate on current capacity, and a rating. To navigate to the report page, simply tap on the card belonging to the location you want to report on.
+
 ## 4.1 - Locating Yourself
 
 To locate yourself on the map, look for a pulsing blue circle in the center of the Map page. The blue circle represents your approximate location on the map.
