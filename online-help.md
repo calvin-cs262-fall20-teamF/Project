@@ -1,4 +1,6 @@
-# Section 2?: Selecting the Least Busy Space
+# Section 2: Submitting a Report
+
+## 2.1 - Selecting the Least Busy Space
 
 You can use the app Freespace to peruse to the list of spaces on campus and choose the one that is the least busy.
 
