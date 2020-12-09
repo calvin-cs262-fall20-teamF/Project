@@ -34,9 +34,9 @@ Imagine you are inside Knollcrest dining hall waiting on line. You wish to make 
 
 ## 4.5 - Submitting a Report
 Imagine that you are in a half-empty dining hall. You want to send a report to record the business of the dining hall. The detailed steps follows:
-      1. Click and load the app.
-      2. Select your location from the list. 
-      3. Press the button that best represents a 50%.
-      4. Press the "Submit" button.
+1). Click and load the app.
+2). Select your location from the list. 
+3). Press the button that best represents the current activity status.
+4). Press the "Submit" button.
 
 
