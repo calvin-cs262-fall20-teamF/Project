@@ -31,3 +31,12 @@ We use the scale below to generalize activity levels:
 Imagine you are inside Knollcrest dining hall waiting on line. You wish to make a quick report before you get out of line. The detailed steps follow:
 1) open up the app and click the location you wish to make a report to
 2) select one of activity status on the screen and submit
+
+## 4.5 - Submitting a Report
+Imagine that you are in a half-empty dining hall. You want to send a report to record the business of the dining hall. The detailed steps follows:
+      1. Click and load the app.
+      2. Select your location from the list. 
+      3. Press the button that best represents a 50%.
+      4. Press the "Submit" button.
+
+
