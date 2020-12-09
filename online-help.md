@@ -4,10 +4,10 @@ You can use the app Freespace to peruse to the list of spaces on campus and choo
 
 Imagine that you are deciding on which dining hall to go to for dinner. You want to go to the dining hall that is the least busy. 
 The detailed steps in this section show you how to:
-    1) click and load the app Freespace,
-    2) scroll through the list of locations on the Home screen, 
-    3) view the Current Capacity and Activity Status of each dining hall, 
-    4) select the dining hall that is the least busy. 
+1) click and load the app Freespace,
+2) scroll through the list of locations on the Home screen, 
+3) view the Current Capacity and Activity Status of each dining hall, 
+4) select the dining hall that is the least busy. 
 
 # Section 4: Using the Map
 
