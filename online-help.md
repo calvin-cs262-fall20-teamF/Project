@@ -25,3 +25,9 @@ We use the scale below to generalize activity levels:
 - Yellow: busy
 - Orange: very busy
 - Red: extremely busy
+
+## 4.4 - Qucikly Submitting a Report
+
+Imagine you are inside Knollcrest dining hall waiting on line. You wish to make a quick report before you get out of line. The detailed steps follow:
+1) open up the app and click the location you wish to make a report to
+2) select one of activity status on the screen and submit
