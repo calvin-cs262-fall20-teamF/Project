@@ -1,3 +1,5 @@
+# Section 1: Navigating the Home page
+
 # Section 2: Submitting a Report
 
 ## 2.1 - Selecting the Least Busy Space
