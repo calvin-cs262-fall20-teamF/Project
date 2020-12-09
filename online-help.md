@@ -1,3 +1,14 @@
+# Section 1?: Selecting the Least Busy Space
+
+You can use the app Freespace to peruse to the list of spaces on campus and choose the one that is the least busy.
+
+Imagine that you are deciding on which dining hall to go to for dinner. You want to go to the dining hall that is the least busy. 
+The detailed steps in this section show you how to:
+    1) click and load the app Freespace,
+    2) scroll through the list of locations on the Home screen, 
+    3) view the Current Capacity and Activity Status of each dining hall, 
+    4) select the dining hall that is the least busy. 
+
 # Section 4: Using the Map
 
 You can use the Map page to see where you are on campus relative to each of Calvin University’s dining halls.
@@ -6,10 +17,6 @@ Imagine that you want to eat at Commons Dining Hall and need to know the dining 
 1) locate yourself on the map of Calvin University’s campus,
 2) locate the dining halls on the map of Calvin University’s campus,
 3) find out how busy (on a standardized scale) each dining hall is at the current moment.
-
-## 4.0 - The Home Screen
-You can use the home screen to look up information on each location, or to go to the report screen. All information on each location is on the corresponding card. 
-This includes both an estimate on current capacity, and a rating. To navigate to the report page, simply tap on the card belonging to the location you want to report on.
 
 ## 4.1 - Locating Yourself
 
