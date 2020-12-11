@@ -96,7 +96,7 @@ We use the scale below to generalize activity levels:
 
 - Black: no recent reports
 - Green: not busy
-- Green-yellow: slightly busy
+- Light green: slightly busy
 - Yellow: busy
 - Orange: very busy
 - Red: extremely busy
