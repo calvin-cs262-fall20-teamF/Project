@@ -59,13 +59,15 @@ find the correct location (see Section 1).
 
 The buttons on the Report page are listed in order of increasing busyness, from top to bottom. The pie chart icon on the left side of the button provides a visual indicator of approximate busyness level. The pie charts' white fill is associated with an approximate busyness level (e.g. if a dining hall is a quarter full, the pie chart that is closest to one-fourths white is the best choice).
 
+The text on the right side of the button is an approximate English-language description of busyness level. The text serves to accompany the pie chart icons in helping you make a decision on what button to press. For example, if you perceive the location as “very busy,” and you see that the pie chart icon’s fill accurately represents the busyness of the dining hall, then the “Very Busy” button is the best choice.
+
+Base your button selection on the pie chart icon if there is a difference in how you perceive the icon and the text. For example, if you think a half-full dining hall is “extremely busy,” then the button with a half-white pie chart icon is the best choice.
 
 ## 2.3 - Submitting a Report
+1) Press the button that, in your best judgement (see Section 2.2), most accurately represents the current activity status.
+2) Press the "Submit" button.
 
-1) tap the button that, in your opinion, best represents the current activity status.
-2) press the "Submit" button.
-
-An alert shoud pop up indicating that your report has been submitted.
+An alert should pop up indicating that your report has been submitted.
 
 
 # Section 3: Using the Map
