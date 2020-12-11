@@ -16,9 +16,9 @@ The detailed steps in this section show you how to:
 
 ## 1.1 - Browsing Locations
 
-Open the Freespace app and from the Home screen, scroll up or down to browse through the locations listed. The left side of each card on the screen has the name of the location. The right side of each card contains information about that specific location.
+From the Home screen, scroll up or down to browse through the locations listed. The left side of each card on the screen has the name of the location. The right side of each card contains information about that specific location.
 
-## 1.2 - Finding How Busy a Dining Halls is
+## 1.2 - Finding How Busy a Dining Hall Is
 
 For each location, there is an English-language phrase representative of the location's busyness level.
 We use the scale below to generalize activity levels. Each phrase has a color associated with it to make identification easier.
