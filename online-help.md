@@ -29,14 +29,14 @@ We use the scale below to generalize activity levels. Each phrase has a color as
 - Very busy: Orange
 - Extremely busy: Red
  
-## 1.3 - Checking Max Capacity / Checking Estimated People at a Dining Hall
+## 1.3 - Checking Maximum Capacity / Checking Estimated People at a Dining Hall
 Underneath the activity level, there is number that represents max capacity of the dining hall.
 
 Underneath the activity level, there is Current Capacity with two numbers. The former indicates estimated number of people at the loaction and the latter is the max capacity of the location
 
 ## 1.4 - Choosing a Dining Hall
 
-Based on the information provided, evaluate and decide which eatery you want to eat at for breakfast/lunch/dinner.
+Based on the information provided, evaluate and decide which eatery you want to eat at for breakfast/lunch/dinner. To create a report on the current busyness at a certain dining hall, tap the card with the name of the dining hall you would like to report for.
 
 
 # Section 2: Creating and Submitting a Report
