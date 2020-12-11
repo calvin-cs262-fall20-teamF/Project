@@ -1,8 +1,6 @@
 # Section 1: Navigating the Home Page
 
-## 1.1 - Selecting the Least Busy Space
-
-You can use the app Freespace to peruse the list of spaces on campus and choose the one that is the least busy.
+You can use the Home page to peruse the list of eateries on campus and view each eatery's current activity levels (busyness).
 
 Imagine that you are deciding on which dining hall to go to for dinner. You want to go to the dining hall that is the least busy. 
 The detailed steps in this section show you how to:
