@@ -7,11 +7,7 @@ The detailed steps in this section show you how to:
 
 1) scroll through the list of locations
 2) check how busy each dining hall is
-
--- Note there are two similar options here! This will be fixed later on!
-3) check max capacity of the location
-3) check number displayed underneath Current Capacity
-
+3) check maximum capacity of the location
 4) choose a dining hall to submit a report for
 
 ## 1.1 - Browsing Locations
@@ -29,10 +25,9 @@ We use the scale below to generalize activity levels. Each phrase has a color re
 - Very busy: Orange
 - Extremely busy: Red
  
-## 1.3 - Checking Maximum Capacity / Checking Estimated People at a Dining Hall
-Underneath the activity level, there is number (colored gold) that represents the maximum capacity of the dining hall.
+## 1.3 - Checking Maximum Capacity
 
-Underneath the activity level, there is Current Capacity with two numbers. The former indicates estimated number of people at the loaction and the latter is the max capacity of the location
+Underneath the activity level, there is number (colored gold) that represents the maximum capacity of the dining hall.
 
 ## 1.4 - Choosing a Dining Hall
 
