@@ -8,26 +8,28 @@ Imagine that you are deciding on which dining hall to go to for dinner. You want
 The detailed steps in this section show you how to:
 
 1) scroll through the list of locations
-2) for each dining hall, check how busy the place is
+2) check how busy each dining hall is
 
 -- Note there are two similar options here! This will be fixed later on!
 3) check max capacity of the location
 3) check number displayed underneath Current Capacity
 
-4) choose a dining hall
+4) choose a dining hall to submit a report for
 
 ## 1.1 - Browsing Locations
-Open Freespace app and from home page screen, simply scroll down or up to browse through locations listed on the app. Each card on the screen will have name of the location on the left side and information about the locations on the right side. Locate dining halls cards by looking at the names.
+
+Open the Freespace app and from the Home screen, scroll up or down to browse through the locations listed. The left side of each card on the screen has the name of the location. The right side of each card contains information about that specific location.
 
 ## 1.2 - Finding How Busy a Dining Halls is
-For each location, there is word based on a word description displayed on the right side.
-We use the scale below to generalize activity levels:
-- Not busy
-- Slightly busy
-- Busy
-- Very busy
-- Extremely busy
-- N/A: this means no recent report
+
+For each location, there is an English-language phrase representative of the location's busyness level.
+We use the scale below to generalize activity levels. Each phrase has a color associated with it to make identification easier.
+- N/A (no recent reports within the last two hours): Black
+- Not busy: Green
+- Slightly busy: Light green
+- Busy: Yellow
+- Very busy: Orange
+- Extremely busy: Red
  
 ## 1.3 - Checking Max Capacity / Checking Estimated People at a Dining Hall
 Underneath the activity level, there is number that represents max capacity of the dining hall.
@@ -35,7 +37,8 @@ Underneath the activity level, there is number that represents max capacity of t
 Underneath the activity level, there is Current Capacity with two numbers. The former indicates estimated number of people at the loaction and the latter is the max capacity of the location
 
 ## 1.4 - Choosing a Dining Hall
-Based on the information provided, evaluate and decide at which dining you want to eat dinner.
+
+Based on the information provided, evaluate and decide which eatery you want to eat at for breakfast/lunch/dinner.
 
 
 # Section 2: Creating and Submitting a Report
