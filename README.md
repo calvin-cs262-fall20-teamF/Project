@@ -22,6 +22,7 @@ Freespace, our user-driven mobile app, serves to inform Calvin University studen
 
 - Presentation Materials
   - [First Presentation](https://docs.google.com/presentation/d/19nvyAxQ8Ngc6I0K-gSkRNRlqca16I0zdnIVrZ_Aj3Ss/edit?usp=sharing)
+  - [Final Presentation](https://docs.google.com/presentation/d/1auCZf9dhz6J93l_Up7MEciXxmRQk_Jg1Z0JPW_9mx1k/edit?usp=sharing)
   
 
 #### Other Freespace repos:
