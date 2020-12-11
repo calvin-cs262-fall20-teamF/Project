@@ -7,10 +7,35 @@ You can use the app Freespace to peruse the list of spaces on campus and choose 
 Imagine that you are deciding on which dining hall to go to for dinner. You want to go to the dining hall that is the least busy. 
 The detailed steps in this section show you how to:
 
-1) click and load the app Freespace,
-2) scroll through the list of locations on the Home screen, 
-3) view the Current Capacity and Activity Status of each dining hall, 
-4) select the dining hall that is the least busy. 
+1) scroll through the list of locations
+2) for each dining hall, check how busy the place is
+
+3) check max capacity of the location
+3) check number displayed underneath Current Capacity
+
+4) choose a dining hall
+
+## 1.1 - Browsing Locations
+Open Freespace app and from home page screen, simply scroll down or up to browse through locations listed on the app. Each card on the screen will have name of the location on the left side and information about the locations on the right side. Locate dining halls cards by looking at the names.
+
+## 1.2 - Finding How Busy a Dining Halls is
+For each location, there is word based on a word description displayed on the right side.
+We use the scale below to generalize activity levels:
+- Not busy
+- Slightly busy
+- Busy
+- Very busy
+- Extremely busy
+- N/A: this means no recent report
+ 
+## 1.3 - Checking Max Capacity / Checking Estimated People at a Dining Hall
+Underneath the activity level, there is number that represents max capacity of the dining hall.
+
+Underneath the activity level, there is Current Capacity with two numbers. The former indicates estimated number of people at the loaction and the latter is the max capacity of the location
+
+## 1.4 - Choosing a Dining Hall
+Based on the information provided, evaluate and decide at which dining you want to eat dinner.
+
 
 # Section 2: Creating and Submitting a Report
 
@@ -36,8 +61,8 @@ The buttons on the Report page are listed in order of increasing busyness, from 
 
 ## 2.3 - Submitting a Report
 
-1) Tap the button that, in your opinion, best represents the current activity status.
-2) Press the "Submit" button.
+1) tap the button that, in your opinion, best represents the current activity status.
+2) press the "Submit" button.
 
 An alert shoud pop up indicating that your report has been submitted.
 
