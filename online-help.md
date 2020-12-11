@@ -10,6 +10,7 @@ The detailed steps in this section show you how to:
 1) scroll through the list of locations
 2) for each dining hall, check how busy the place is
 
+-- Note there are two similar options here! This will be fixed later on!
 3) check max capacity of the location
 3) check number displayed underneath Current Capacity
 
