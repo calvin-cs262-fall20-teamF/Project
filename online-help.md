@@ -85,6 +85,8 @@ To locate yourself on the map, look for a pulsing blue circle in the center of t
 To locate a dining hall on the map, look for a colored pin on the Map page. The color of the pin will be one of five colors: 
 green, green-yellow, yellow, orange, or red. The smaller end of the pin indicates the approximate location of a dining hall on the map.
 
+Tap a pin to see a pop-up appear above the pin. The pop-up contains the name of the location the pin points to. Tap anywhere within the map to make the pop-up disappear.
+
 ## 3.3 - Finding a Dining Hall’s Busyness Level
 
 Each pin’s color indicates the busyness level at that location as reported by other people. 
